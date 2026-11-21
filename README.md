@@ -5,3 +5,5 @@ An example interactive metabolomics data portal from the UC Davis West Coast Met
 Live: https://urikeshet.github.io/wcmc-example-portal/
 
 `index.html` is self-contained (app, plots and data inline) and is published unchanged from the builder output.
+
+`media/` holds the hero video and poster for the WCMC homepage.
